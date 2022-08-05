@@ -1,0 +1,5 @@
+Average Pixel Accuracy: 0.919 
+Average Mean Accuracy: 0.704 
+Average IOU: 0.057 
+Average Mean IOU: 0.488 
+Average Weighted IOU: 0.91 
